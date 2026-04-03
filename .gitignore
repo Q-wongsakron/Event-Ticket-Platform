@@ -1,0 +1,16 @@
+# Java / Spring Boot
+target/
+*.class
+*.jar
+.mvn/
+*.log
+
+# Angular
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# IDE
+.idea/
+.vscode/
+*.iml
