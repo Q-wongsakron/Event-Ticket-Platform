@@ -4,7 +4,7 @@ target/
 *.jar
 .mvn/
 *.log
-
+.env
 # Angular
 frontend/node_modules/
 frontend/dist/
