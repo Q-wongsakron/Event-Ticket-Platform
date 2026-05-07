@@ -1,4 +1,4 @@
-package com.wongsakron.tickets.domain;
+package com.wongsakron.tickets.domain.entities;
 
 import jakarta.persistence.*;
 import lombok.*;

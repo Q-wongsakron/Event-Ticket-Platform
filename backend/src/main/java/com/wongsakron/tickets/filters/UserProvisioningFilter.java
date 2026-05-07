@@ -1,6 +1,6 @@
 package com.wongsakron.tickets.filters;
 
-import com.wongsakron.tickets.domain.User;
+import com.wongsakron.tickets.domain.entities.User;
 import com.wongsakron.tickets.repositories.UserRepository;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
